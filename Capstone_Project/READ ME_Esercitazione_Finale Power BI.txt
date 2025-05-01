@@ -1,0 +1,11 @@
+Spiegazione del progetto
+
+Slide 1
+La prima slide analizza il modo in cui variano gli ordini mese per mese. Attraverso un grafico a linee, è possibile confrontare l’andamento di un anno con quello precedente e comprendere se ci sono stati miglioramenti o cali nel volume di vendita. Una scheda pone in evidenza la variazione percentuale degli ordini, al fine di avere un colpo d’occhio immediato sull’andamento generale. Inoltre, grazie a un filtro interattivo, è possibile selezionare uno specifico stato dell’ordine (ad esempio solo quelli "delivered" o "canceled"), e vedere come cambia il trend in base a questa scelta.
+
+Slide 2
+La seconda diapositiva pone il focus sui ricavi generati, considerando contestualente il prezzo di vendita e i costi di spedizione. Anche qui troviamo un grafico a linee che confronta i ricavi generati mese per mese rispetto all’anno precedente. Una KPI card mostra chiaramente la variazione percentuale, utile per valutare le performance economiche nel tempo. Analogamente agli ordini, un filtro consente di analizzare i ricavi in base allo stato degli ordini, così da isolare quelli di interesse del cliente finale.
+
+Slide 3
+L’ultima parte del report indaga il tema della customer satisfaction. Un grafico a colonne mostra il numero di recensioni che sono state lasciate per ogni punteggio (da 1 a 5), mentre un secondo grafico evidenzia la media delle recensioni per ogni stato del Brasile. Una scheda riassume il punteggio medio complessivo e mediante dei filtri è possibile approfondire l’analisi per categoria di prodotto o per area geografica. Questa parte è utile per individuare dove e su quali prodotti i clienti sono più soddisfatti, dove ci sono margini di miglioramento e per i quali eventualmente è più conveniente dismettere la produzione.
+
